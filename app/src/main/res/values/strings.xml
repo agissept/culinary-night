@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="client_id">989881111668-q40625u5bd55uv22jtqa2nfue5no1uvl.apps.googleusercontent.com</string>
+</resources>
